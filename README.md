@@ -1,4 +1,6 @@
 # Fahrradkurier-vs-Bandbreite
+AUFGABE:
+
 Lohnt sich ein Fahrradkurier?
 
 Als kurz vor einer Präsentation ein Datenserver ausfällt, müssen rasch die benötigten Projektdaten vom Rechenzentrum in die entsprechende Filiale übermitteln werden.
@@ -9,3 +11,10 @@ Der Fahrradkurier schafft 25 km/h und kann bis zu 10 Datenträger auf einmal tra
 Ein Datenträger hat ein Speichervolumen von 4,4 GB.
 
 Ab welcher Entfernung wird der Fahrradkurier bei einer einfachen Fahrt bereits überholt?
+------------------------------------------------------------------------
+
+Hinweis:
+Die benötigten Daten können nun mittels Eingabefelder direkt eingegeben werden.
+
+TODO:
+- Weitere Version, bei der man via Radio-Buttons die jeweiligen Größen bzw. Einheiten anwählen kann.
