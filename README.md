@@ -11,6 +11,7 @@ Der Fahrradkurier schafft 25 km/h und kann bis zu 10 Datenträger auf einmal tra
 Ein Datenträger hat ein Speichervolumen von 4,4 GB.
 
 Ab welcher Entfernung wird der Fahrradkurier bei einer einfachen Fahrt bereits überholt?
+
 ------------------------------------------------------------------------
 
 Hinweis:
